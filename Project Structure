@@ -1,0 +1,7 @@
+PRODIGY_GA_01/
+│
+├── data/
+│   └── dataset.txt
+├── text_generation.py
+├── requirements.txt
+└── README.md
